@@ -18,6 +18,10 @@
             text-align: center;
         }
 
+        p:first-child {
+          font-style: italic;
+        }
+
 
         h1 {
           color: red;
@@ -28,6 +32,30 @@
           color: grey;
         }
 
+        .special {
+          color: orange;
+        }
+
+        #unique {
+          font-size: 4em;
+        }
+
+        /*Pseudo selector*/
+
+        a:link {
+          color: purple;
+        }
+
+
+        a:visited {
+          color: red;
+        }
+        a:hover {
+          color:green;
+        }
+
+/*
         * {
           border: 2px solid black;
         }
+*/
