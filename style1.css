@@ -1,6 +1,33 @@
         p {
+            /*
             color: red;
-            font-size: 30px;
-            font-family: Arial;
+            color: rgb(0,0,255);
+            color: #30EDFF;*/
+            color: rgba(0,0,255,0.5);
+            /*font-size: 30px;*/
+            font-size: 1.5em; /* em est la valeur par defaut */
+            /* Systeme de rattrapage des polices*/
+            font-family: Helvetica,cursive;
             /*font-family: fantasy;*/
+            /* sont inclus dans CSS:
+            serif
+            sans-serid
+            cursive */
+
+            font-weight: bold;
+            text-align: center;
+        }
+
+
+        h1 {
+          color: red;
+        }
+
+        div div p {
+          font-size: 0.8em;
+          color: grey;
+        }
+
+        * {
+          border: 2px solid black;
         }
