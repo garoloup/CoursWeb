@@ -1,0 +1,17 @@
+.red {
+  background-color: red;
+  width: 400px;
+  height: 500px;
+  /*margin: 100px;*/
+  /*margin-top: 50px;*/
+  /*margin: 50px 20px 30px 44px;*/
+  /*margin: 50px 20px 30px 44px;*/
+  margin: 100px auto
+}
+
+.blue {
+  background-color: blue;
+  width: 400px;
+  height: 500px;
+
+}
