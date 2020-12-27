@@ -1,17 +1,21 @@
 .red {
   background-color: red;
-  width: 400px;
-  height: 500px;
+  width: 150px;
+  height: 200px;
   /*margin: 100px;*/
   /*margin-top: 50px;*/
   /*margin: 50px 20px 30px 44px;*/
   /*margin: 50px 20px 30px 44px;*/
-  margin: 100px auto
+  margin: 5px auto;
+/*  border-style: solid;
+  border-width: 5px;
+  border-color: grey;*/
+  border-bottom: 15px solid green;
 }
 
 .blue {
   background-color: blue;
-  width: 400px;
-  height: 500px;
+  width: 200px;
+  height: 150px;
 
 }
